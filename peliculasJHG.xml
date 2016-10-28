@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
 <channels>   
 <channel>
 <name>Accion</name>
@@ -119,11 +120,22 @@
 <fanart></fanart>
 <items>
 
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR]  </title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+</items>
+</channel>
+
+
 <channel>
 <name>TERROR</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
+
 
 
 
