@@ -3,7 +3,7 @@
 
 <channels>   
 <channel>
-<name>Accion</name>
+<name>ACCION</name>
 <thumbnail></thumbnail>
 <fanart>http://www.paridasclub.com/wp/wp-content/uploads/2015/09/expendables4.jpg</fanart>
 <items>
@@ -264,8 +264,8 @@
 <items>
 
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR]  </title>
-<urlsolve></urlsolve>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Star Trek XIII: Más allá  </title>
+<urlsolve>http://streamin.to/t7obajy8uu74</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -342,6 +342,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+</items>
 </channel>
 
 
@@ -353,6 +354,8 @@
 <items>
 
 
+
+
 <channel>
 <name>COMEDIA</name>
 <thumbnail></thumbnail>
@@ -360,13 +363,69 @@
 <items>
 
 
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Intocable </title>
+<urlsolve>http://streamin.to/ey2bpie4tnqv</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Oceans Eleven </title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Arma letal </title>
+<urlsolve>http://streamcloud.eu/n2yx8es7t1wn</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Infiltrados en la universidad </title>
+<urlsolve>http://streamin.to/zobgyymejh65</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+</items>
+</channel>
+
+
 <channel>
-<name>AVENTURA</name>
+<name>Peliculas Peques</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
 
 
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] El Rey Leon </title>
+<urlsolve>http://streamin.to/ntxq9doyqole</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Toy Story 1 </title>
+<urlsolve>http://streamin.to/uxcl4azleryk</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Buscando a Nemo </title>
+<urlsolve>http://streamin.to/1th9t62vk6nd</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+</items>
+</channel>
 </channels>
