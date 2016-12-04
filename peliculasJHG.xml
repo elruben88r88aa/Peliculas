@@ -3,7 +3,7 @@
 
 <channels>   
 <channel>
-<name> [COLOR yellow] Accion [/COLOR]   </name>
+<name> [COLOR gold] Accion  [/COLOR]   </name>
 <thumbnail>http://cdn.revistagq.com/uploads/images/thumbs/201241/100_peliculas_accion_7189_701x368.jpg</thumbnail>
 <fanart>http://www.paridasclub.com/wp/wp-content/uploads/2015/09/expendables4.jpg</fanart>
 <items>
@@ -383,7 +383,7 @@
 
 
 <channel>
-<name> [COLOR yellow] Estrenos 2016 [/COLOR]</name>
+<name> [COLOR orange] Estrenos 2016 [/COLOR]</name>
 <thumbnail>http://3.bp.blogspot.com/-lHpbfTwUn0U/VcKxEq69TYI/AAAAAAAADB0/l7LJMhUs0no/s1600/65197302.jpg</thumbnail>
 <fanart></fanart>
 <items>
@@ -401,7 +401,7 @@
 <item>
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Underworld: Guerras de sangre LATINO</title>
 <urlsolve>http://streamin.to/nq200s68q97b</urlsolve>
-<thumbnail></thumbnail>
+<thumbnail>http://gnula.nu/wp-content/uploads/2016/09/Underworld_Blood_Wars_nuevo_poster_usa.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -409,7 +409,7 @@
 <item>
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Our Kind of Traitor </title>
 <urlsolve>http://watchvideo.us/nulyd31hkgpg.html</urlsolve>
-<thumbnail></thumbnail>
+<thumbnail>http://ecx.images-amazon.com/images/I/61rqg0NtA-L._SL250_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -418,7 +418,7 @@
 <item>
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] La chica del tren LATINO </title>
 <urlsolve>http://www.nowvideo.sx/video/d259e0f52c281</urlsolve>
-<thumbnail></thumbnail>
+<thumbnail>http://ep01.epimg.net/tematicos/imagenes/2016/10/10/elpaismas/1476094770_927228_1476094890_noticia_normal.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -427,7 +427,34 @@
 <item>
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Al Final del Túnel</title>
 <urlsolve>http://streamin.to/t2rbrudvtnea</urlsolve>
-<thumbnail></thumbnail>
+<thumbnail>http://bucket.clanacion.com.ar/anexos/fotos/cartelera/al-final-del-tunel-c_6813gr.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Ouija: El origen del mal </title>
+<urlsolve>http://streamin.to/9u2ynub0v5o1</urlsolve>
+<thumbnail>https://full-downloads.xyz/wp-content/uploads/2016/07/Ouija-El-origen-del-mal-758x640.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Sully </title>
+<urlsolve>http://www.nowvideo.sx/video/81d162fd6d862</urlsolve>
+<thumbnail>http://es.web.img2.acsta.net/c_300_300/pictures/16/08/16/16/56/341391.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR]Bridget Jones's Baby</title>
+<urlsolve>http://streamin.to/atov7ftg7l2p</urlsolve>
+<thumbnail>http://www.lifenews.com/wp-content/uploads/2016/09/bridgetjonesbaby.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -469,9 +496,8 @@
 </item>
 
 
-
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR]  Mechanic </title>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Mechanic: Resurrection</title>
 <urlsolve>http://streamcloud.eu/cy4urkl1v9uf</urlsolve>
 <thumbnail>http://es.web.img3.acsta.net/c_300_300/pictures/16/08/01/17/32/024271.jpg</thumbnail>
 <fanart>http://es.web.img3.acsta.net/c_300_300/pictures/16/08/01/17/32/024271.jpg</fanart>
@@ -576,7 +602,7 @@
 
 
 <channel>
-<name>[COLOR red] Terror[/COLOR]</name>
+<name>[COLOR blue] Terror[/COLOR]</name>
 <thumbnail>http://www.terroracto.es/wp-content/uploads/2016/01/Cine-fant%C3%A1stico-y-de-Terror-2016.jpg</thumbnail>
 <fanart></fanart>
 <items>
